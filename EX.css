@@ -1,0 +1,45 @@
+ td {
+    border: 1.7px inset rgb(245, 246, 247) ;
+    background-color: rgb(2, 205, 245);
+    padding: 3px;
+    margin: 20px;
+    margin-left: 5px;
+    font-size: large;
+  }
+
+.regi{
+    border: 1.7px inset rgb(245, 246, 247) ;
+    background-color: rgb(255, 255, 157) ;
+    color: red;
+    padding: 5px;
+    margin: 20px;
+    font-size: xx-large;
+}
+
+table{
+    height: 30%;
+    width: 35%;
+    border: 3px outset;
+}
+.container_table {
+    display: flex;
+    justify-content: center;
+}
+
+th{
+    border: 1.7px inset rgb(245, 246, 247) ;
+    background-color: rgb(2, 205, 245);
+    padding: 5px;
+    margin: 20px;
+}
+
+.btm-buttons{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    align-items: center;
+}
+
+.btm-buttons-row {
+    text-align: center;
+}
