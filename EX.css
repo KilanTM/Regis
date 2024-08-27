@@ -21,7 +21,7 @@ table{
     height: 30%;
     width: 35%;
     border: 3px outset;
-    padding-inline: 2.5px;
+    
 }
 .container_table {
     display: flex;
