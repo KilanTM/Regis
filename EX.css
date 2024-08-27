@@ -5,6 +5,7 @@
     margin: 20px;
     margin-left: 5px;
     font-size: large;
+    
   }
 
 .regi{
@@ -20,6 +21,7 @@ table{
     height: 30%;
     width: 35%;
     border: 3px outset;
+    padding-inline: 2.5px;
 }
 .container_table {
     display: flex;
@@ -31,6 +33,7 @@ th{
     background-color: rgb(2, 205, 245);
     padding: 5px;
     margin: 20px;
+
 }
 
 .btm-buttons{
