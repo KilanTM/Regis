@@ -37,10 +37,11 @@ th{
 }
 
 .btm-buttons{
-    height: 50px;
-    width: 120px;
+    height: 35px;
+    width: 150px;
     text-align: center;
     align-items: center;
+    font-size: large;
 }
 
 .btm-buttons-row {
